@@ -8,7 +8,17 @@ export {
   userInfo,
 } from './authenticate'
 export { OAuth2Client, type OAuth2ClientConfig, toTokens } from './client'
-export { b64url, fromB64url, pkcePair, randomToken, seal, unseal, utf8 } from './crypto'
+export {
+  b64url,
+  fromB64url,
+  pkcePair,
+  randomToken,
+  seal,
+  sha256,
+  timingSafeEqual,
+  unseal,
+  utf8,
+} from './crypto'
 export { OAuthError, TokenValidationError } from './errors'
 export { getJson, providerFetch, readBody, setProviderFetch } from './http'
 export {
