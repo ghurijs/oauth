@@ -1,6 +1,6 @@
 {
   "name": "@ghuri/oauth",
-  "version": "0.1.0-alpha.0",
+  "version": "0.1.0-alpha.1",
   "description": "Ghuri OAuth: Passport.js-style login strategies (OAuth2, OpenID Connect, local, magic link, bearer) for Workers and Node",
   "type": "module",
   "license": "MIT",

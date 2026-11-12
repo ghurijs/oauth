@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## 0.1.0-alpha.1
 
 - Export `sha256` and `timingSafeEqual` from the main entry (used by `@ghuri/oauth-provider`).
 
