@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased
+
+- Export `sha256` and `timingSafeEqual` from the main entry (used by `@ghuri/oauth-provider`).
+
 ## 0.1.0-alpha.0
 
 - Initial alpha (ARCHITECTURE.md §17).
